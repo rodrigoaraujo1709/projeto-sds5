@@ -22,7 +22,7 @@ const DonutChar = () => {
 
                 setChartData({ labels: myLabels, series: mySeries });
             });
-    }, [])
+    }, []);
 
 
     //const mockData = {
